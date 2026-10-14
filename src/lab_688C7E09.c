@@ -16,7 +16,7 @@ int signed_char_max()
     return SCHAR_MAX;
 }
 
-int unsigned_int_max()
+unsigned int unsigned_int_max()
 {
     return UINT_MAX;
 }
